@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lohetapja  
 - 👀 I’m interested in ... programming, pc games.
-- 🌱 I’m currently learning ... C#, and how to start
+- 🌱 I’m currently learning ... Python, and how to start
 - 💞️ I’m looking to collaborate on ... anything i can help with, willing to learn.
 - 📫 How to reach me ... Discord Lohetapja#7767
 
