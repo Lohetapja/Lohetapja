@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @Lohetapja  
-- 👀 I’m interested in ... cybersecurity, programming, pc games.
-- 🌱 I’m currently learning ... Cybersecurity, and how to start
-- 💞️ I’m looking to collaborate on ... anything i can help with, willing to learn.
-- 📫 How to reach me ... Discord Lohetapja#7767
+👋 Hi, I’m Riivo (Lohetapja)
+
+🔐 Cybersecurity-focused learner with a strong emphasis on defensive security, threat analysis, and security fundamentals.
+
+📚 Background:
+- Transitioning into cybersecurity after years in technical/engineering work
+- Hands-on learning through labs, self-study, and practical exercises
+- Experience with Python fundamentals (learning archive from 2023)
+
+🧭 Current focus:
+- Blue Team / SOC-oriented skills
+- Log analysis, incident thinking, and security tooling
+- Continuous learning and long-term growth
+
+📌 This GitHub contains:
+- Learning archives and experiments
+- Practice code and notes
+- Security-related projects (as they develop)
+
+Always learning. Building carefully.
 
 <!---
 Lohetapja/Lohetapja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
