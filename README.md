@@ -2,6 +2,8 @@
 
 🔐 Cybersecurity-focused learner with a strong emphasis on defensive security, threat analysis, and security fundamentals.
 
+https://lohetapja.github.io/CyberDefenseRunner
+
 📚 Background:
 - Transitioning into cybersecurity after years in technical/engineering work
 - Hands-on learning through labs, self-study, and practical exercises
