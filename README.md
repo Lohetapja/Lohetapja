@@ -21,7 +21,9 @@ Browser-based blue-team lab for simulated junior SOC workflows.
 
 Triage alerts. Investigate evidence. Build reports. Draft detections.
 
-Live project: https://lohetapja.github.io/cyber-defense-lab/
+Live projects:
+https://lohetapja.github.io/cyber-defense-lab/
+https://lohetapja.github.io/Packet-Survivor/
 
 The project currently includes:
 
