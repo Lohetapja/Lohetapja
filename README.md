@@ -43,7 +43,6 @@ Focus areas:
 ### Packet Survivor
 
 Live project: https://lohetapja.github.io/Packet-Survivor/
-GitHub: https://github.com/Lohetapja/Packet-Survivor
 
 A static cybersecurity roguelite/shooter game.
 
