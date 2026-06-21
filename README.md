@@ -15,30 +15,79 @@ My main focus is defensive security: SOC workflows, alert triage, log analysis, 
 
 ## Featured project
 
+## Featured projects
+
+### SOC Case Workspace
+
+Live project: https://lohetapja.github.io/SOC-Case-Workspace/
+
+A browser-based workspace for practicing SOC case handling.
+
+**What it is:**
+A simulated investigation workspace where alerts, evidence, timelines, notes, and reporting can be organized in one place.
+
+**Why I built it:**
+I wanted to practice how a SOC analyst thinks through a case: what happened, what evidence supports it, what the timeline looks like, what severity makes sense, and how to explain the finding clearly.
+
+Focus areas:
+
+* Alert triage
+* Evidence organization
+* Incident timelines
+* Case notes
+* Reporting workflow
+* SOC analyst thinking
+
+---
+
+### Packet Survivor
+
+Live project: https://lohetapja.github.io/Packet-Survivor/
+GitHub: https://github.com/Lohetapja/Packet-Survivor
+
+A static cybersecurity roguelite/shooter game.
+
+**What it is:**
+You play as a defensive packet inside a hostile network. You collect telemetry, survive threat waves, choose tools, upgrade your loadout, and see how far you can go.
+
+**Why I built it:**
+I wanted to make something playful but still connected to cybersecurity — a small project that combines JavaScript, game logic, defensive terminology, progression systems, and cyber-themed design.
+
+Focus areas:
+
+* JavaScript game logic
+* Static GitHub Pages deployment
+* Defensive tool concepts
+* Threat waves
+* Telemetry collection
+* Progression and unlock systems
+
+---
+
 ### Cyber Defense Lab
 
-Browser-based blue-team lab for simulated junior SOC workflows.
+Live project: https://lohetapja.github.io/cyber-defense-lab/
 
-Triage alerts. Investigate evidence. Build reports. Draft detections.
+A browser-based blue-team lab for simulated junior SOC workflows.
 
-Live projects:
-https://lohetapja.github.io/cyber-defense-lab/
-https://lohetapja.github.io/Packet-Survivor/
+**What it is:**
+A collection of small defensive security tools, demos, and simulations focused on practical SOC-style work.
 
-The project currently includes:
+**Why I built it:**
+The goal is not to build a production SOC platform. The goal is to demonstrate how I think through blue-team work: evidence, context, severity, false positives, timelines, ATT&CK mapping, detection logic, and communication.
 
-* Security Foundations quiz training
-* SOC Shift Simulator
-* SOAR-Lite Alert Triage
-* Incident Timeline Builder
-* SOC Alert Report Generator
-* KQL Detection Assistant
-* Log Parser / SIEM Demo
-* AI Misuse Detection Demo
+Includes:
+
+* Security foundations quiz training
+* SOC shift simulator
+* SOAR-lite alert triage
+* Incident timeline builder
+* SOC alert report generator
+* KQL detection assistant
+* Log parser / SIEM demo
+* AI misuse detection demo
 * Safe fictional scenario packs
 
-The goal is not to build a production SOC platform.
-The goal is to demonstrate how I think through blue-team work: evidence, context, severity, false positives, timelines, ATT&CK mapping, and communication.
 
 ## Background
 
